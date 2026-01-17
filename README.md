@@ -337,10 +337,9 @@ WHERE station_id = 'STATION_001'
 
 ## 👨‍💻 Author
 
-**Created by**: [Your Name Here]  
+**Created by**: Eren DOGAN
 **Project**: ESP32 IoT Air Quality Monitoring System  
 **Started**: December 2025  
-**Repository**: [Your GitHub URL]
 
 ---
 
